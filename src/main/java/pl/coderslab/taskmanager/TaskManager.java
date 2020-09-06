@@ -157,6 +157,7 @@ public class TaskManager {
     private static void showMainMenu() {
         System.out.println(ConsoleColors.BLUE + "Please select an option");
         System.out.println(ConsoleColors.RESET);
+        System.out.println(ConsoleColors.RESET);
         System.out.println("\tAdd");
         System.out.println("\tRemove");
         System.out.println("\tList");
